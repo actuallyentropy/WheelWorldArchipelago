@@ -16,24 +16,8 @@ obj/
 # NuGet
 *.nupkg
 
-lib/Assembly-CSharp.dll
-lib/Assembly-CSharp-firstpass.dll
-lib/BitCode.AssetManagement.dll
-
-lib/Il2Cppmscorlib.dll
-lib/Il2CppSystem.dll
-lib/Il2CppSystem.*.dll
-
-lib/UnityEngine.dll
-lib/UnityEngine.*.dll
-lib/Unity.*.dll
-
-lib/Sirenix.Serialization.dll
-
-lib/HoudiniEngineUnity.dll
-lib/Sentry.dll
-lib/Sentry.*.dll
-lib/MethodXrefScanCache.db
+#dependencies
+lib/
 
 # OS files
 Thumbs.db

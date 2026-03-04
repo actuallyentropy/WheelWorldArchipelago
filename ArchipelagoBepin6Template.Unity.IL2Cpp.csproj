@@ -1,0 +1,154 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <AssemblyName>WheelWorldArchipelago</AssemblyName>
+        <Description>Example Archipelago Plugin</Description>
+        <Version>1.0.0</Version>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <LangVersion>latest</LangVersion>
+        <!-- <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies> -->
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <RootNamespace>WheelWorldArchipelago</RootNamespace>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>C:\Code\WheelWorldArchipelago\Archipelago\WheelWorldArchipelago\build</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <DebugType>none</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\$(AssemblyName)</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+    </PropertyGroup>
+
+    <Target Name="ZipMod" AfterTargets="PostBuildEvent" Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <ZipDirectory SourceDirectory="bin\Release\$(AssemblyName)"
+                      DestinationFile="bin\Release\$(AssemblyName)-$(Version).zip"
+                      Overwrite="true"/>
+    </Target>
+
+    <ItemGroup>
+        <Reference Include="0Harmony">
+            <HintPath>lib\0Harmony.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="BepInEx.Core">
+            <HintPath>lib\BepInEx.Core.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="BepInEx.Unity.Common">
+            <HintPath>lib\BepInEx.Unity.Common.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="BepInEx.Unity.IL2CPP">
+            <HintPath>lib\BepInEx.Unity.IL2CPP.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="Assembly-CSharp-firstpass">
+            <HintPath>lib\Assembly-CSharp-firstpass.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>lib\Assembly-CSharp.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="BitCode.AssetManagement">
+            <HintPath>lib\BitCode.AssetManagement.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="Il2Cppmscorlib">
+            <HintPath>lib\Il2Cppmscorlib.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Configuration">
+            <HintPath>lib\Il2CppSystem.Configuration.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Core">
+            <HintPath>lib\Il2CppSystem.Core.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Data">
+            <HintPath>lib\Il2CppSystem.Data.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem">
+            <HintPath>lib\Il2CppSystem.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Drawing">
+            <HintPath>lib\Il2CppSystem.Drawing.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Net.Http">
+            <HintPath>lib\Il2CppSystem.Net.Http.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Numerics">
+            <HintPath>lib\Il2CppSystem.Numerics.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Runtime.Serialization">
+            <HintPath>lib\Il2CppSystem.Runtime.Serialization.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Xml">
+            <HintPath>lib\Il2CppSystem.Xml.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppSystem.Xml.Linq">
+            <HintPath>lib\Il2CppSystem.Xml.Linq.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="Il2CppInterop.Runtime">
+            <HintPath>lib\Il2CppInterop.Runtime.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="UnityEngine">
+            <HintPath>lib\UnityEngine.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="UnityEngine.CoreModule">
+            <HintPath>lib\UnityEngine.CoreModule.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="UnityEngine.IMGUIModule">
+            <HintPath>lib\UnityEngine.IMGUIModule.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="UnityEngine.TextRenderingModule">
+            <HintPath>lib\UnityEngine.TextRenderingModule.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="Sirenix.Serialization">
+            <HintPath>lib\Sirenix.Serialization.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="Archipelago.MultiClient.Net">
+            <HintPath>lib\Archipelago.MultiClient.Net.dll</HintPath>
+        </Reference>
+        <Reference Include="Newtonsoft.Json">
+            <HintPath>lib\Newtonsoft.Json.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="id_to_location.json">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,4547 @@
+﻿{
+  "generated": "2026-03-01T18:04:54.6740164-08:00",
+  "DiscoverableJump": [
+    {
+      "id": "21359c9c-e4b0-4920-b76c-92ed1741c3f9",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "16cf23a4-029c-42d3-9b23-0a45c9729829",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "27f9e29f-a790-4b06-9b98-7e3db00a31a6",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "e1d7f251-dd66-48bd-b2d8-4d2497c1b020",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "fa6601b7-2c18-41e3-b5dc-640863dbb6cb",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "20da7f51-3e4a-4fd3-99c6-7b75e1ca85f4",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "43d71a3a-1bad-410b-9b60-ee6c0e2e1588",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "97910eea-5718-4a63-97da-236bc7eefc5a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "5f9d3384-d453-439f-8269-d8ed079ba565",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "3b6f9d84-a05b-4e82-9721-65a43cd05a69",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "93a3f8c4-c644-4ec4-9ecd-724fbab80581",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a089962c-50fd-4c44-9db5-9f4ec1e5075d",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "658527d0-6cbc-41ac-bd35-5d6765c1ef2e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "87c77689-a524-4f5c-bd61-caf502ada364",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "e68a7e12-d931-46b1-b318-6ed923d2fac6",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ef50251f-51ec-45a3-a561-01102bb7c1a1",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "df40ff34-ad20-49bf-8627-b2c7c682ac97",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "923fec64-5748-49a9-8d77-3628d2405378",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "16747beb-2dc9-4016-b332-e225acdbc575",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "c4a90e2d-1995-4f12-a525-ea218bf65c1e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "4cb27ae4-17fb-411e-84c7-2bf9d53733b5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "0cab8b6c-8a78-4308-8b6e-b40c4ec2b5d5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "476bd297-b103-42b2-b975-9e0a1487b845",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "8e7719eb-30b1-45ac-a0a0-65948281e433",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "9e28b284-8659-4218-b9cc-c24698440230",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "59e7e40a-b0bc-4b91-a365-a7002c21929b",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "3629628b-992f-41c8-8d9b-60b6e647347e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "413058ba-6f32-4b5c-b82e-787d6e7eabad",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "81be230e-8104-49e9-94a7-5c0ad742dd2f",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "07c3ef00-1fba-4b92-a4d4-b70564ee2d53",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "232fe6f2-3b08-4113-b9ef-ab7a468af35e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ff1cce67-dd0a-446c-95d7-7829bc033e7c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "dd831325-9bdb-4e7d-a8ff-ea30d505251b",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "18a38c24-7e22-4d05-8084-10ea038eeb42",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "009bf6c5-698b-4688-8d85-25922c3b18d6",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "6b37050f-6c33-41e4-9362-ba8064c6a731",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "2d262f2b-1bf0-467d-ae2a-d46da484cdb5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "fddce77b-d7c4-4cbd-a051-70127d5381c8",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "35e9330d-f137-41b9-b024-e70804d76e7c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "76df50ca-5a3d-4f7c-9b97-4c7317c3fb2c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "1c672e92-a829-4949-b1e6-4248f5798834",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "789b3f32-b5b7-4f67-be97-a279e231e521",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "3182dadc-cdfe-4477-83e1-0e85b82c0411",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "1bec8b57-44f1-4243-beaa-810e7f793b62",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "81e94af3-26b6-427d-89cb-c454bcd1177d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "4a65c276-8b6e-47b0-8c63-81d844e46611",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "84d453f7-84e0-43bc-94c6-60488489016f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "02d3d6c0-973e-4032-a985-4a5f659b3219",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "09e8419a-592a-4892-b6bd-383e04f64d90",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "44262c7a-b1e1-48de-bd35-e2cb99a26bd0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "64b8ce59-7d50-4223-8ddf-589e29314f52",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump (1)"
+    },
+    {
+      "id": "423c8102-fbd4-424f-bbeb-83888e3911a1",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "176c680b-9fac-4132-a945-eb37b91a750c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "f76f20f9-bf8e-4888-986d-30639354c40d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "7e3fd67d-c5b1-4de6-a53a-7aba1a36336d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump (1)"
+    },
+    {
+      "id": "7c0200bb-d753-4fd4-8813-a4bbabcbeec8",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "796666e5-96e0-4851-893d-7f77a411baac",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "2249579c-7692-4510-8ce9-f964fbd050ee",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a69c7841-3bd6-4d3a-8f17-38369b0fb888",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "9762307b-937a-45ab-a911-dc05fa2cd73f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "036975d2-fb86-44c9-9563-5c960954e1e9",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ee1231e6-3294-4515-8703-1be7d9911683",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "b028ce30-53ae-4bca-a8cf-d829467b6d42",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "7bb20cc6-78a4-46c5-ae17-c7e2b29fdcc8",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump (1)"
+    },
+    {
+      "id": "128a2f37-9d3d-48ae-8144-cc72b57b9a4b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "08424a5b-dce2-4ed9-b7d6-f647e4651faa",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "d7f7b952-412f-4c8f-9625-848460a61d84",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ff216c16-1dda-493f-803a-b3aa7ab79a47",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "59dac640-a183-47b6-9a16-065164924e7e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "bb4e1ef2-efef-4813-bfc6-f7dd8d6d90d4",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "138d5905-2983-4ed1-b896-810abb3a118c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ca487183-3428-4568-be7f-45bcbaa35153",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "680df6fd-c070-456a-bae4-e660dae36c95",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "48bbf66d-bc69-4aa8-932f-f9b90fa6161d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "3a606800-431d-46db-9d9e-4a9e5c2fc5d5",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a65791d5-8ce5-450b-8c3f-8efc086a1e9b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a5c00038-0856-4e28-be09-0d3bfa40dfbb",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "742e35f8-1ce7-48c4-9d40-efd3b0c53205",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "bf087aa6-427f-4652-a965-82ad2724f3d8",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "eec40441-7ea8-42f2-8ec5-cbe2593218fc",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a52dc4d2-b9c2-4f62-8c03-53136194e500",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "2e43a006-d29b-461d-9deb-b4a18acfec86",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "1ce978aa-65f5-4adc-af1e-06bb24f62173",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "c8d82351-e7c2-43de-b1f9-23814a5c1ae4",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "6437726f-ca85-4c60-857b-5cc2ab58ef2e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "f5c7acc5-1a0f-4f65-9a7a-54c0c3051aae",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "f8bb6e59-787b-403c-8e1b-7db861b4939b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "80e64da8-7e3a-4585-a092-d280aa6f695b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "42547e16-4a8b-42a9-9748-69a74323e8ac",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "91b3ac5d-c0c0-4c8a-a187-5d4d589d9d90",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "977b978b-d277-4a72-8d85-8af205eebef5",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "eca4c4c6-e93a-4db7-9089-781d61817417",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "7597a8e1-1319-48b0-b78f-df06f5eb5b9e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "de004554-3bcd-40b9-85de-6e7f61f4fdaa",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "6a9d01d5-d493-42e2-8583-6b1a44e34997",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "04f3d45a-46d0-4933-b234-6b562d0efb4b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "e04a59d4-f393-453b-9b79-4f2f86ca6b7a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "2c7df073-9eb4-45b1-93e9-e467e88773ec",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "6ea953cc-6a70-4887-8cbc-541d198d7cfb",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "a357d1b4-3cc6-4463-be70-f16d87b788b3",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "704b5bac-e6c4-4c7b-bf79-9c576b81b141",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "84522a33-bcb6-4d9c-9aab-670e0add6ff2",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "13977da4-6283-4b01-8879-7b539ba65117",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "d3647c99-df91-44ee-871d-89ca34abfe0d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "ec926e9f-d9ee-426e-8b32-f4341c09ffef",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "66f4e2f5-eaf9-4e81-8b43-5e1f4204c52b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "16c7a157-caab-4d30-95f4-41e861a3fc8c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "0afb0c66-feb9-47a7-b351-ea30e59a1f3d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "b17bca4c-b78a-4fae-a64d-c417a6bbde23",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "afb8c5ea-bae5-4ec9-b63a-03fc97c0b5e4",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "936899d2-16ec-4a80-b9fb-eb5da60f66d1",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "97e35a29-e905-47e8-b828-e33f62a9a76a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "5ac38205-5cd3-42b8-bfed-3cc151dfbe4d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "2de54242-cf2c-413e-a3ca-f22c3cb65d2e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "c4b274e2-aaa3-4fc7-880d-38f0332b2544",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "eec02393-36f1-4733-9e43-654a78d425e2",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "451885aa-e8e1-4b7d-85de-d34c926323dd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    },
+    {
+      "id": "290b65cd-70a1-405a-9cf6-03ba47b7f6fc",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "DiscoverableJump"
+    }
+  ],
+  "GhostAltar": [
+    {
+      "id": "86771eaf-c54e-49ae-bc17-6348f05360a8",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "14cf25f2-833d-41a5-8fd4-e96c982d45af",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "6eb02cb2-3cd0-4205-8dd1-51dd7664c8cb",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "6727f775-3ed5-4c5b-8a8d-2a996e7b7c5c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "bbcac193-1f28-4fff-9fdf-60b30fae2d65",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "5b6ea0f6-6bba-45af-9e86-6838598da6d5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    },
+    {
+      "id": "6dac5b91-64c0-43bb-9054-fbd012aee8df",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "GhostBoostAltar"
+    }
+  ],
+  "FlaggedCyclist": [
+    {
+      "id": "dc6a96d4-8fe3-4826-9118-4901cf72dbe5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dock HRD  front",
+      "raceNameKey": "PortPrincess"
+    },
+    {
+      "id": "0a19bd90-a470-41d5-b2f7-f99286a95f54",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Loop 3",
+      "raceNameKey": "TrashStackLoop"
+    },
+    {
+      "id": "931cee87-369a-4e3f-b232-3e3cefcbeae5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Main Road A",
+      "raceNameKey": "TourdeDump"
+    },
+    {
+      "id": "b9d236d9-84bb-4f9e-8df8-c9d5f1e5ffd9",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse MED woods B",
+      "raceNameKey": "Skimmer"
+    },
+    {
+      "id": "a5a83815-a6a9-4f0e-9abe-33f8df0c8901",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Loop 4",
+      "raceNameKey": "SewerLoop"
+    },
+    {
+      "id": "72d072ba-1266-401b-8345-26b102c7fca9",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse HARD Loop 1",
+      "raceNameKey": "ShantyKid"
+    },
+    {
+      "id": "97303adf-7932-443a-a8c6-5527eb181fad",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city HRD C overpass",
+      "raceNameKey": "Overpasser"
+    },
+    {
+      "id": "7665fe30-41af-4e91-94c9-dd15d1cb0401",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Loop 5",
+      "raceNameKey": "FluidProcessor"
+    },
+    {
+      "id": "4e433ce1-4453-445c-a2ad-4886978d15d9",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse MED peak",
+      "raceNameKey": "WastelandWoodsman"
+    },
+    {
+      "id": "1c7b98fe-369b-4a5e-ad19-9454a39a3656",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Loop 1",
+      "raceNameKey": "PipeTrack"
+    },
+    {
+      "id": "36840a2e-1781-4066-9cbe-1728105b8834",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse MED parking",
+      "raceNameKey": "ParkingAttendant"
+    },
+    {
+      "id": "29fb038f-43e1-4180-8868-6f24b19be243",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city HRD BLVD",
+      "raceNameKey": "Downtowner"
+    },
+    {
+      "id": "1b42a306-0b54-45ae-b27e-fd474bebe850",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city HRD A",
+      "raceNameKey": "CityZoneA"
+    },
+    {
+      "id": "c724f550-8870-46bb-81fd-6518fd2e496a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse HARD Loop 3",
+      "raceNameKey": "ShantyLord"
+    },
+    {
+      "id": "7b3d8a13-e0a1-4c71-bee7-49b63bd2b121",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dock HRD back",
+      "raceNameKey": "DockDude"
+    },
+    {
+      "id": "9c08351e-889b-4c43-86fd-d4f546fcf7fd",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dock HRD  mid",
+      "raceNameKey": "ShipShredder"
+    },
+    {
+      "id": "5d5cfb3d-40bd-4a92-8724-082448ad976d",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city MED B",
+      "raceNameKey": "BlockLoopA"
+    },
+    {
+      "id": "6eaa763e-fbf9-44a9-a867-df92f962854a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city HRD loop 1",
+      "raceNameKey": "BlockLoopB"
+    },
+    {
+      "id": "a0b19db3-9730-44d3-862d-efc9ae8711cf",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD Loop 2",
+      "raceNameKey": "Trashman"
+    },
+    {
+      "id": "00bfdf7f-03ca-4d8b-bb4f-84ebfb5ca58e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump MED cars",
+      "raceNameKey": "CarStacker"
+    },
+    {
+      "id": "80e306b9-b7e3-4ef2-aaf9-bd159673d7a5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse HARD Loop 2",
+      "raceNameKey": "HillsideLoop"
+    },
+    {
+      "id": "67702fdf-79c4-44a3-9284-c353c318bb50",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC city HRD loop 2",
+      "raceNameKey": "BlockLoopC"
+    },
+    {
+      "id": "bd99543f-cd01-47fc-9d1c-20fb0f9d2b20",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC warehouse MED woods A",
+      "raceNameKey": "EerieWoodsLoop"
+    },
+    {
+      "id": "a263abf9-b109-407a-88e4-8af1dff71551",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "FC dump HRD pond",
+      "raceNameKey": "SludgeGuy"
+    },
+    {
+      "id": "681c135d-8ef1-4db2-8f72-f9f9800da64d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Field A",
+      "raceNameKey": "FieldWorker"
+    },
+    {
+      "id": "250bb4c9-945a-49a9-bdda-632248bc9691",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub HRD Loop 3",
+      "raceNameKey": "BlockLoopIII"
+    },
+    {
+      "id": "54861f39-7303-403c-b6ca-acfdcdd02e01",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub HRD Loop 1",
+      "raceNameKey": "BlockLoopI"
+    },
+    {
+      "id": "321a4e15-11f2-4621-84a3-aea65f729e5c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq MED windmill lighthouse loop",
+      "raceNameKey": "LighthouseLoop"
+    },
+    {
+      "id": "f8a9d07a-9517-4e67-bc58-abd2c8d4b72d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine HRD SmallLoop4",
+      "raceNameKey": "SeasideBreezer"
+    },
+    {
+      "id": "65e897e5-b163-4b7c-a1ca-a812d48c197f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine MED Main Road C",
+      "raceNameKey": "RoadWarriorVI"
+    },
+    {
+      "id": "d076e5d4-c0ad-4520-8cf1-01c95b803715",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Moon EASY beach",
+      "raceNameKey": "BeachBum"
+    },
+    {
+      "id": "6b3e6bf2-574b-4cd8-a88d-6ff0b6ab1894",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine HRD Main Road B",
+      "raceNameKey": "RoadWarriorV"
+    },
+    {
+      "id": "ef14ae40-ccd7-4bb0-864b-8c3507f4968b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine HRD SmallLoop1",
+      "raceNameKey": "OliveChamp"
+    },
+    {
+      "id": "fdcbf61f-d700-48ef-8d7d-99e9c41e5cb0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm HRD Field C",
+      "raceNameKey": "WhippingThroughWheat"
+    },
+    {
+      "id": "49c72b7b-0205-4f4d-bd46-8b238ea4d2cb",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq MED velodrome",
+      "raceNameKey": "Velodromer"
+    },
+    {
+      "id": "4166c42d-4987-491b-b0bd-1d7e2dc5989b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine MED SmallLoop5",
+      "raceNameKey": "GrapeGuy"
+    },
+    {
+      "id": "d31926a3-fbb8-4f84-a4d4-f8be216c5111",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine HRD SmallLoop2",
+      "raceNameKey": "ChateauChaser"
+    },
+    {
+      "id": "292579d5-4b02-45a8-ad7c-57b503afb486",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD bay way",
+      "raceNameKey": "BayLoop"
+    },
+    {
+      "id": "4cf576c0-fb64-44be-9ca5-7adb3cf6a274",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine MED Main Road E",
+      "raceNameKey": "RoadWarriorVIII"
+    },
+    {
+      "id": "aa25f245-4697-460a-b3b5-28a04d468b24",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Moon MED whole island",
+      "raceNameKey": "IslandTrekker"
+    },
+    {
+      "id": "6e33d104-88be-4b15-ae9d-5649257a1f9d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub MED squiggly alleys",
+      "raceNameKey": "AlleyDog"
+    },
+    {
+      "id": "71e0a3b9-3052-4999-81fa-8551f94c53f5",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub MED back  blvds",
+      "raceNameKey": "Boulevardee"
+    },
+    {
+      "id": "dcd05f72-5fa2-4a29-9576-bb5a2ac3e92b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub MED front blvd and alley",
+      "raceNameKey": "Boulevarder"
+    },
+    {
+      "id": "e8a00d86-fec3-4ded-852b-a69eb5383873",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Main Road B",
+      "raceNameKey": "RoadWarriorII"
+    },
+    {
+      "id": "6154d10e-5c77-48f9-baaf-b9e7e21b23ca",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD rev grumpy",
+      "raceNameKey": "SwitchbackHater"
+    },
+    {
+      "id": "b6edc526-f5f4-4ccb-b0eb-b71e0ba55dfe",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Moon EASY island central house",
+      "raceNameKey": "NeighborhoodLoop"
+    },
+    {
+      "id": "66a3e8d0-c30f-4ffe-8dd8-d06b73130bcc",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm HRD Main Road A",
+      "raceNameKey": "RoadWarriorI"
+    },
+    {
+      "id": "f54d5614-3b4a-46db-a678-41abfdfdb8d1",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub MED back corner near farm",
+      "raceNameKey": "AlleyCat"
+    },
+    {
+      "id": "2e13166a-ad7e-405c-be9c-893bab5e2eb6",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm EASY graveyard",
+      "raceNameKey": "GraveyardGhoul"
+    },
+    {
+      "id": "28a97865-825f-4227-90dc-1a3125ec0673",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub EASY roundabout",
+      "raceNameKey": "Roundabouter"
+    },
+    {
+      "id": "6600c6a7-d65c-4921-a024-fdac9e3bf79c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD dirty peninsula",
+      "raceNameKey": "BackroadMarathoner"
+    },
+    {
+      "id": "0fc450c3-db88-465b-9507-30261698da3c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub HRD Loop 2",
+      "raceNameKey": "BlockLoopII"
+    },
+    {
+      "id": "e4470f42-1c42-4a42-a1f6-904a590f9136",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine MED Main Road D",
+      "raceNameKey": "RoadWarriorVII"
+    },
+    {
+      "id": "ed6cab9a-7ea7-4741-9178-c6692b581c8c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq MED Baby Loop",
+      "raceNameKey": "LittleLoop"
+    },
+    {
+      "id": "51f21763-2282-4da7-9079-1cbd2ea64f43",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD big peninsula loop",
+      "raceNameKey": "RoadWarriorIX"
+    },
+    {
+      "id": "985349e5-8d0d-4811-b98b-7c55e4ed6d94",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Rooster Circle",
+      "raceNameKey": "RoosterFan"
+    },
+    {
+      "id": "e3d0e8ff-dd5a-4a7b-87dc-69fd4444c6ff",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD switchback tunnel to dirt switchbacks",
+      "raceNameKey": "SwitchbackEnthusiast"
+    },
+    {
+      "id": "df4b6b6f-20f6-4be6-ba4b-73c7aa16c4de",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine MED Main Road A",
+      "raceNameKey": "RoadWarriorIV"
+    },
+    {
+      "id": "70ed7f6e-c141-43f8-b371-4562e7bf370c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq MED bmx outer loop",
+      "raceNameKey": "BackroadSprinter"
+    },
+    {
+      "id": "9ca816cd-ab01-487a-b7be-395cc8a75538",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub HRD Loop 4",
+      "raceNameKey": "BlockLoopIV"
+    },
+    {
+      "id": "3e711b71-8d42-4545-ab06-ec813d5e83a0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Hub HARD back roundabout",
+      "raceNameKey": "CarPileup"
+    },
+    {
+      "id": "a2a77bb2-f87b-4d9c-ba1b-884651a8c3fb",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm HRD Field BC",
+      "raceNameKey": "CrossingGuard"
+    },
+    {
+      "id": "11974c50-eddc-4314-a923-f5f9ae5c7365",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm HRD cliff crawler extended",
+      "raceNameKey": "CliffCrawler"
+    },
+    {
+      "id": "61229d43-f636-4d27-b6af-6d5a1d9a3467",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Main Road C",
+      "raceNameKey": "RoadWarriorIII"
+    },
+    {
+      "id": "de141573-fe7a-4120-9054-226960e97c22",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Vine HRD SmallLoop3",
+      "raceNameKey": "WindmillStanley"
+    },
+    {
+      "id": "6f570189-c080-4b4e-99f9-96c973d58024",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Seq HRD half camp",
+      "raceNameKey": "Logger"
+    },
+    {
+      "id": "9ea94352-65b2-48f4-b82c-616afe8c3800",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Main Road D MINOR",
+      "raceNameKey": "TerraceTour"
+    },
+    {
+      "id": "31eef13e-178e-4fa2-992f-f3fc69afdfc7",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "FC Farm MED Field B",
+      "raceNameKey": "TractorTailgater"
+    },
+    {
+      "id": "e41c0f2a-9f63-4feb-8e51-96e647af7742",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "FC mtn HRD - old town",
+      "raceNameKey": "OldTown"
+    },
+    {
+      "id": "fa7b4edc-bc4c-4661-9c47-79e9bb30f2ed",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "FC mtn HRD - main route",
+      "raceNameKey": "VillageLoop"
+    },
+    {
+      "id": "e4dcbbeb-af23-4510-99c9-9bc79ae11cbb",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "FC mtn HRD - gondola",
+      "raceNameKey": "LiftWorker"
+    }
+  ],
+  "CouponEnvelope": [
+    {
+      "id": "68bbd775-4214-41a0-b287-7d19a1fc47a6",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "d98577f5-d0a5-40b3-beb5-ee8fb6a278e1",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "aed270a2-79fb-49d5-bbc2-e201ebc1435a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "9b0ae6cf-2221-445a-b196-bc561b2a1259",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "616c823b-3462-43a2-b12b-1f479c2a7b43",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "b4cdb875-b3d7-4f17-95e4-827dabe2a0c1",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "7edb9f27-691b-481c-a5a9-7fb60d17c9e9",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "f8fdf9c2-bc57-42b0-b2c2-9d8d4c69a0dd",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "4a265036-6a06-41be-a4ed-e64073185571",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "47ba79c8-e3a3-4e08-896e-2cfd483ca69a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "2cacf278-7472-411d-817f-f45974ee119c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "f86c80b1-0359-4183-90dd-11940d366e41",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "a6188971-8463-4359-a3a6-0622be0a67c0",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "5d091d61-c25f-499c-98e9-f85dac6adf6a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Coupon Envelope (2)",
+      "numCoupons": 3
+    },
+    {
+      "id": "2d28c690-5242-4eda-ae86-fc3a5c64ce7f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "f39113e2-c5e3-45d2-9a6e-6697816709be",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "cca8f010-9295-4df2-aa57-7f62a85c0880",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "43331755-605b-4e78-b13c-3fb1225c27ee",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "14d592e5-1425-4940-b3dc-9743b6682655",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "dd64341b-7f0b-4558-b0ce-54aaa650e64a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "f4e6a015-aee1-43e8-97d1-18253b939615",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "18857873-85f8-419e-b75f-16181cbf51f0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "0e6a55f8-c6a9-4e8d-ae35-65ee78567b7c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "382ecb0f-c39e-4ba3-80b2-3e92e9e64f82",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "6805c077-25a8-4f12-9a75-b7ce4f50463a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "b5c9ff0e-40d6-40c8-b52d-f2fe59710fae",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "9e60f332-f7d0-4b85-875e-bc58ec49731e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (2)",
+      "numCoupons": 3
+    },
+    {
+      "id": "c8f316a5-2012-4373-83aa-a02491d601dd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "68e2b27d-8444-4c21-97d5-0715ebf682b0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "2c4a7b43-8b55-492a-a7d1-d63a64430743",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "f207b6a5-c8f6-47f4-a548-221326f9f100",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "a1f98fc7-cf11-481d-ac96-f89e829d2bbd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (2)",
+      "numCoupons": 3
+    },
+    {
+      "id": "f7ef0602-a5c2-44fc-a2eb-ee20e5036d85",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "533a2c9f-8902-4372-ae97-0684dc8acc38",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "bde3422e-46aa-46ca-9446-84cb5a62dfbd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "3914659f-3d13-48d6-bd6f-74f34ac1f1b0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "038037fa-e3f1-4f6a-8436-09a48ad73708",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "304b9b1d-6348-4c30-8289-fed3ec1d53dc",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "9854545c-ff22-48e6-9a2a-d3c2f08c6623",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "2148ca25-9671-4e65-98f8-9c98c4214fe6",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "1d0ff116-2a3e-45ea-a70b-0868abb00c4b",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (3)",
+      "numCoupons": 3
+    },
+    {
+      "id": "a942cb7c-3616-409a-8a17-c36c8af69e28",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "4b2794e7-ca76-4bee-a43f-8a7c96ba223f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (3)",
+      "numCoupons": 3
+    },
+    {
+      "id": "020f6a6c-3183-4053-b87d-875b964aa7d5",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "997afc8d-24ec-40b9-bbc2-00d447b994f3",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "9962fd00-a730-4722-baf5-f54dfd0ce6d1",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "263e04c0-5881-436f-ae26-166e81910968",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "aa0af302-e590-4a23-9b7a-441858d354c6",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    },
+    {
+      "id": "47d30d56-d1cd-4b6f-923e-b010eb929d24",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "Coupon Envelope (1)",
+      "numCoupons": 3
+    },
+    {
+      "id": "6c2c4a58-b25a-42de-8d11-07ab17cff127",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "Coupon Envelope",
+      "numCoupons": 3
+    }
+  ],
+  "BikePartPickup": [
+    {
+      "id": "6cbad5bf-d332-43e3-96a8-9308af30a50f",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (24)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "6edc6620-4c40-4814-a985-57c19ca17437",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (28)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "28192a72-9cca-4f3f-94c3-1d51fbf6ad67",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (32)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ed8ae2b6-365d-44fe-ab46-2610f1755e49",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (22)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "6d89050a-0086-492d-b2d9-522176c8c396",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (8)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "cd42123e-590f-48cb-93c4-44323ce7d24e",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (16)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e671cb9b-20c2-453c-8793-f9e6119f2277",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "d5ba9a8e-00be-45b1-a2a6-39f7a0b073ce",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3a495b2a-585f-41f0-9946-a8129e56a18c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b34501c3-f4f0-4873-bfb4-893eb5e7b7b3",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (13)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "50eff296-26c5-42ca-800d-bde2996b92dc",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ae5d7274-8a03-4485-9986-c681c13486fc",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (12)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "f40bf585-b188-4ea1-86db-679703eef4ce",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (9)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "53925860-ddb6-43bc-bc5a-390037270751",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (25)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "c0b34785-db41-4e98-9aa7-e1e7e31081ee",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (21)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "20d033c0-2237-4724-a5c7-82f6ebd2b282",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (30)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "8183ddd8-ed53-4c20-82f5-10718457f0f3",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (20)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "9e2df887-4b2e-4bce-ae21-7645c95784cb",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (2)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "42c031b7-3db9-4f99-854c-96dfa893fab5",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (31)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "08cc1f7d-6e5e-4a8b-94f2-0fd245f829e4",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (10)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "8a259bee-5182-4c99-a3bb-003cbace7cc2",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (27)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ed58b896-3c00-45cc-81ee-6b29a2bdd4ed",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (29)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "4dab089c-e138-4319-bab8-3f90f6a9eba7",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (14)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "45c8ab54-b9cc-4d54-a12e-5ab4d8247c04",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (15)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "a64adb26-3272-48d7-aac5-1ecf66880b63",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (19)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "24d47c1b-7e8d-4247-95bb-8c76360e2234",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (18)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3e098ba7-0590-46f0-86a9-e26eb3d0a5cb",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (11)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "a9e0360d-b08f-4a0f-aed0-fdc7479b0805",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (1)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "c2a49466-34f6-4e55-9782-c030f36cc010",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (26)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "df783427-aebc-4a5f-a361-4201c5fb1a72",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (1)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "77c209c5-5e95-4ac6-8f1a-85b17997a09a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (4)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "d71778f7-57e7-4396-a618-ccc57026bee4",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (23)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "9b5b9b06-0618-444b-95dc-676bc3abef9c",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (17)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "93bb2e9f-6f31-45af-b0aa-4dde1870c31a",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (2)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "cd2ba619-e90d-4b40-bb7d-4ed35eff5ae0",
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Part Pickup (7)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "741959e2-382f-4e18-a90d-3a6fc95ac31c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "223271ee-6800-4cd5-8710-ddebce6e18fb",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ed23498b-dd23-4194-9a00-5c938ff31074",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e3ae1f31-45b9-4630-b6da-e41cb3aa054f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e74383a6-cf70-4fac-bd75-9e931c38a062",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "5e644436-a5f1-4a30-859a-8034eafb78fd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "9334fb62-436d-4537-8f46-21c63f2f9d8c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b1b084a4-be34-4ae6-b1ff-5b18c2a00cae",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "f97142aa-deb9-43e0-ab81-14d88e2dc801",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "2d335a15-eb2c-4523-a574-748ff89b6e1d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b4de82ea-09c0-405f-a5cb-69796d94d7ef",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "92c655a0-c382-4833-86e4-9a44f5aa7591",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup - Drivetrain",
+      "partMode": "SpecificPart",
+      "partName": "Commuter Train",
+      "dropTag": "drop"
+    },
+    {
+      "id": "8d9484c8-3157-4d15-ab88-c54c20dbe986",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "7b299d45-e838-4eb7-a828-0c58dbd81a0e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ebb71f5e-21cc-4cc0-8b95-d2a91f0e885d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ef0f374e-c0eb-4d95-bbf4-401035bee297",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (1)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "c63ccae6-c8e5-4581-ad78-b1e13ff7fb8f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "2737111f-b1fc-48c1-b4b7-e27b09225d91",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "SpecificPart",
+      "partName": "Commuter Bars",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e04dc196-ef37-44f0-aacb-2c94468d4248",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (2)",
+      "partMode": "RandomPart",
+      "partName": "Commuter Frame",
+      "dropTag": "drop"
+    },
+    {
+      "id": "dbc925b7-eb6a-4b12-b2b3-f53d97696225",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "970c6ce5-885b-4fe2-91b3-845ab9e2c00a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "cc063e0f-5ffa-445a-969e-e5747aec015f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "11e23dc6-6fd6-497b-bb48-c2251fc91f1e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (Commuter Wheels)",
+      "partMode": "SpecificPart",
+      "partName": "Commuter Wheel",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3455fc4c-d316-43e8-8bcf-7f8c74995643",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3c97daad-b7dd-48b6-98b1-30927f35af29",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "8eb7345c-a3d6-4e5a-a87b-af61176c317a",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "2b3a9b2f-6874-495b-97be-7e42234835a0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "53d8bb4c-7411-495e-8076-4b30a04cdcfa",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "0ee2c65d-3ea6-4a24-b5a8-17eae72a44b1",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e0d248b3-e542-47b9-9781-d153bc3f8bfd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "d59c76b8-425a-4652-817b-40511c493aab",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "4429f812-feca-4a37-9ddf-ad50d10699a0",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3e1a3ed0-507e-40eb-a60f-94bc3dc2e6c3",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3fc7ea31-773a-4211-af57-3f5b56c735f4",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "fb25bff2-91d0-4b61-982f-09e67de21ba7",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "bfe23dfd-22c4-4e24-8586-537e775f909c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (1)",
+      "partMode": "RandomPart",
+      "partName": "Commuter Frame",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b4edcc29-fd3d-4672-8441-33606c01bdbf",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "78ca1642-b9bd-4877-bdba-b6400d7b7b43",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "624c4494-2e8f-496f-abbe-b01cb4816799",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "5ef6a9fb-354f-42c4-b438-bae634140893",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "50339eea-8e80-4815-8b9a-3501c870e37f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "2705c586-d423-4bb0-b650-3b940ec48908",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "05650f2f-5bee-4ccf-bc69-35666347441c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "12ef053e-3748-4c7f-855a-f1743b530ee7",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "5417c6d4-880c-490c-9269-587c00296afd",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (3)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "f4feab4f-b6a6-43db-ab65-13fd69ed7ee4",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "1ae8dbef-e7e9-42b8-b695-6e8951b1ebac",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b77fd3f2-ca46-4e0b-a885-aaa8320316f2",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3ce84912-f9c0-462d-bd0f-cc1c46dd29d7",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "ba73b47b-68d0-4d25-bead-09b2e9dd316e",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "3e067180-9eb5-459b-a23a-9b4b9edfc906",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "99404885-e1a9-4a2e-b778-cf9876f9c106",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "d9d39fdf-b907-45e7-8a00-f799fa75c52f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (4)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "833f6107-3ecc-4382-9711-73abda05dc7f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup (2)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "e6dd58c4-2e6f-4ea8-96ff-545864107ac6",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b9f81207-ca97-4858-b848-c2bf72f32a02",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "0ed4bcd5-462d-483c-97c7-fd466ca6d75c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "26215300-d4b4-4ed8-8f3c-27bc23ec2d4c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "b1f34455-60f4-4816-a608-f83513cbb0c3",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "78b9b1e4-c50f-44ea-b13a-2b8390c09b9f",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "90251ef4-c581-4500-9b2c-9a659623090d",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "79acc47d-2bf8-4e92-aa30-fae32bed4e29",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "d966dd9f-886b-452c-8e73-9fa33a75e85c",
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "f96859a0-7cd7-4a81-a1d5-191858d568bc",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "Part Pickup",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    },
+    {
+      "id": "656bd51b-877c-424b-85bd-ae191b341e3e",
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "Part Pickup (1)",
+      "partMode": "RandomPart",
+      "partName": "",
+      "dropTag": "drop"
+    }
+  ],
+  "StartChallengeNode": [
+    {
+      "id": "cf14ea21-9537-4045-a96c-73b1f929311b",
+      "scene": "FirstScene",
+      "challengeName": "The Grumpy Grimpeurs",
+      "challengeDesc": "",
+      "activityId": "TheGrumpyGrimpeurs",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "b475c24a-7f2e-4097-8282-6481dad3ae56",
+      "scene": "FirstScene",
+      "challengeName": "The Nude Dudes",
+      "challengeDesc": "",
+      "activityId": "TheNudeDudes",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "7abf1163-4311-4547-b810-1465450364c6",
+      "scene": "FirstScene",
+      "challengeName": "Cliffhangers",
+      "challengeDesc": "",
+      "activityId": "Cliffhangers",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "6a8e8a3a-5362-4828-8b7e-c038a9955dc9",
+      "scene": "FirstScene",
+      "challengeName": "The Bikepackeurs",
+      "challengeDesc": "",
+      "activityId": "TheBikepackeurs",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "1bddc97e-7d43-4a37-a05b-b93238bc46db",
+      "scene": "FirstScene",
+      "challengeName": "The Corner Kings",
+      "challengeDesc": "See if you can hang with the toughest riders in the city.",
+      "activityId": "TheCornerKings",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "0d835796-f2f9-4769-8bb1-2079d70a43e7",
+      "scene": "FirstScene",
+      "challengeName": "The Sales Team",
+      "challengeDesc": "",
+      "activityId": "TheSalesTeam",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "7be130d9-795f-4be0-a394-814f7dc5374a",
+      "scene": "FirstScene",
+      "challengeName": "The Replacements",
+      "challengeDesc": "",
+      "activityId": "TheReplacements",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "7ab1071d-b5fd-42c6-b541-bee3a7e38973",
+      "scene": "FirstScene",
+      "challengeName": "The World Tourers",
+      "challengeDesc": "",
+      "activityId": "TheWorldTourers",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "eaa4e242-f5cc-42d0-8294-cb10cd12fbfe",
+      "scene": "FirstScene",
+      "challengeName": "The Lords of the Land",
+      "challengeDesc": "",
+      "activityId": "TheLordsoftheLand",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "2e904394-f444-4fff-b326-47032ac8cf78",
+      "scene": "FirstScene",
+      "challengeName": "The Underbikeurs",
+      "challengeDesc": "",
+      "activityId": "TheUnderbikeurs",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "abe8e065-dc68-42ab-8192-3a0b78e0012b",
+      "scene": "FirstScene",
+      "challengeName": "The Regulars",
+      "challengeDesc": "",
+      "activityId": "TheRegulars",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "e3960774-7c75-4909-8c30-b96ed0dc2671",
+      "scene": "FirstScene",
+      "challengeName": "Le Grand Crew",
+      "challengeDesc": "",
+      "activityId": "LeGrandCrew",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "2acfea3f-d81c-4a0f-8e3a-46fab24d4d80",
+      "scene": "FirstScene",
+      "challengeName": "The Explorers",
+      "challengeDesc": "",
+      "activityId": "TheExplorers",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "c7701a82-2558-42fe-a495-076857474c2b",
+      "scene": "FirstScene",
+      "challengeName": "The Survivors",
+      "challengeDesc": "",
+      "activityId": "TheSurvivors",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "184224ab-65a4-42d4-bb58-c9d9694738fb",
+      "scene": "FirstScene",
+      "challengeName": "The Pedal Assistants",
+      "challengeDesc": "",
+      "activityId": "ThePedalAssistants",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "1293e538-ebfc-4180-bb1c-7d60f64c0306",
+      "scene": "FirstScene",
+      "challengeName": "The Paceline Cooks",
+      "challengeDesc": "",
+      "activityId": "ThePacelineCooks",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "5937876f-adf7-4bc6-8ff6-6d413a963d28",
+      "scene": "FirstScene",
+      "challengeName": "The Sommoliers",
+      "challengeDesc": "",
+      "activityId": "TheSommoliers",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "da25d148-8bbc-4347-9705-8b1414e2c10b",
+      "scene": "FirstScene",
+      "challengeName": "The Pedal Pumpers",
+      "challengeDesc": "",
+      "activityId": "ThePedalPumpers",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "0d5f71f5-d79e-4257-bdc7-43663e9cafd3",
+      "scene": "FirstScene",
+      "challengeName": "The Heroica",
+      "challengeDesc": "",
+      "activityId": "TheHeroica",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "b47a7f97-ba62-45f0-bb1e-4d13cceb097d",
+      "scene": "FirstScene",
+      "challengeName": "Lunardo Hill Boys",
+      "challengeDesc": "",
+      "activityId": "LunardoBoss",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "86fa597e-77f1-4f2a-8eac-0e9246cfe962",
+      "scene": "FirstScene",
+      "challengeName": "The Gravel Privateers",
+      "challengeDesc": "",
+      "activityId": "TheGravelPrivateers",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "336bf916-668c-4534-a2fe-864fd6fedad5",
+      "scene": "FirstScene",
+      "challengeName": "The Locals",
+      "challengeDesc": "A quick jaunt around the old farm ruins.",
+      "activityId": "TheLocals",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "199b384a-0948-4e26-98f0-8f8968ac8a49",
+      "scene": "FirstScene",
+      "challengeName": "The Celebrities",
+      "challengeDesc": "",
+      "activityId": "TheCelebrities",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "a0dbffee-f56a-4716-a3d3-c2e165f8c20a",
+      "scene": "FirstScene",
+      "challengeName": "The Practice",
+      "challengeDesc": "",
+      "activityId": "ThePractice",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "64f75555-953e-444a-9cd2-a22695fcd0d3",
+      "scene": "FirstScene",
+      "challengeName": "The Vintage Grinder ",
+      "challengeDesc": "",
+      "activityId": "TheVintageGrinder",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "b0d3c44c-9a09-4a77-bfd5-45e1ca94193f",
+      "scene": "FirstScene",
+      "challengeName": "The Collectors",
+      "challengeDesc": "",
+      "activityId": "TheCollectors",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "9bf4e2ed-0fc4-4cdc-be00-72e3a95a51ce",
+      "scene": "FirstScene",
+      "challengeName": "Lunardo Hill Boys Rematch",
+      "challengeDesc": "",
+      "activityId": "LunardoHillBoysRematch",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "79dee3c6-335a-4fc0-b096-edc2fff1c096",
+      "scene": "FirstScene",
+      "challengeName": "The Pub Crawlers",
+      "challengeDesc": "",
+      "activityId": "ThePubCrawlers",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "6cf854f7-da77-4b10-8829-208c501ad0a2",
+      "scene": "FirstScene",
+      "challengeName": "The Commuters",
+      "challengeDesc": "",
+      "activityId": "TheCommuters",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "e58688b2-1e9f-47b8-aad0-1cf92c00a529",
+      "scene": "FirstScene",
+      "challengeName": "The Fixies",
+      "challengeDesc": "Circle round and round and round on the old velodrome.",
+      "activityId": "TheFixies",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "e4b6ac98-6914-4866-a156-1f3f1621077b",
+      "scene": "FirstScene",
+      "challengeName": "The Handlebaristas",
+      "challengeDesc": "",
+      "activityId": "TheHandlebaristas",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "85d5a8b0-466e-4cf3-b4bc-def41cdc2c09",
+      "scene": "FirstScene",
+      "challengeName": "The Shimmy Squad",
+      "challengeDesc": "",
+      "activityId": "TheShimmySquad",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "1c79745e-6777-45e6-a277-2e02f3b76131",
+      "scene": "Null",
+      "challengeName": "The K.O.B",
+      "challengeDesc": "",
+      "activityId": "",
+      "rewardSize": "Small",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    },
+    {
+      "id": "e954886c-978c-444a-b450-450fbed0ac3b",
+      "scene": "Null",
+      "challengeName": "The Rocket",
+      "challengeDesc": "She\u0027s tough! Explore the wilds of the forest in this off-road tour.",
+      "activityId": "TheRocket",
+      "rewardSize": "Legendary",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": [
+        "Legendary Fork",
+        "Legendary Train"
+      ]
+    },
+    {
+      "id": "93c2ffed-bdb7-4910-8a26-14b8b7ae4a6d",
+      "scene": "Null",
+      "challengeName": "Rooster\u0027s Rando",
+      "challengeDesc": "A tour to all four corners of the farmlands.",
+      "activityId": "RoostersRando",
+      "rewardSize": "Legendary",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": [
+        "Legendary Handlebars",
+        "Legendary Saddle"
+      ]
+    },
+    {
+      "id": "864566e5-51c8-4c0a-a665-81c3e46701fc",
+      "scene": "Null",
+      "challengeName": "The Smokestack",
+      "challengeDesc": "Blaze a trail through every nook and alleyway in Tramonto city.",
+      "activityId": "TheSmokestack",
+      "rewardSize": "Legendary",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": [
+        "Legendary Frame"
+      ]
+    },
+    {
+      "id": "ca98af8a-e7ec-4f15-9913-0246199208a4",
+      "scene": "Null",
+      "challengeName": "Mark I GigaBike Exhibition Race",
+      "challengeDesc": "",
+      "activityId": "WheelWorldProgressActivity",
+      "rewardSize": "Legendary",
+      "rewardRandomBikePart": false,
+      "rewardBikeParts": [
+        "Synthetic Frame",
+        "Synthetic Fork",
+        "Synthetic Wheels",
+        "Synthetic Handlebars",
+        "Synthetic Saddle",
+        "Synthetic Train"
+      ]
+    },
+    {
+      "id": "68786575-d0c1-4526-9b63-8881b051e07c",
+      "scene": "Null",
+      "challengeName": "The Doyenne",
+      "challengeDesc": "The duchess herself! Go toe to toe with Lulu across the entire vineyard region.",
+      "activityId": "TheDoyenne",
+      "rewardSize": "Legendary",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": [
+        "Legendary Wheels"
+      ]
+    },
+    {
+      "id": "f49e5347-885b-4aa0-88b0-d0f3e8cd865a",
+      "scene": "Null",
+      "challengeName": "Race Stub Extravaganza",
+      "challengeDesc": "",
+      "activityId": "",
+      "rewardSize": "Big",
+      "rewardRandomBikePart": true,
+      "rewardBikeParts": []
+    }
+  ],
+  "Shop": [
+    {
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Corp shop",
+      "restocks": true,
+      "restockCycles": 2,
+      "parts": [
+        {
+          "id": "7bc3bf7f-4cba-4ac8-8523-6e48f994a1cc",
+          "partName": "Corp Bars",
+          "category": "Handlebars",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "fa72a483-67af-4e96-87e9-5d51b412eb96",
+          "partName": "Corp Fork",
+          "category": "Fork",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "4cb25857-d1d0-4b95-a94d-a51c5367f52a",
+          "partName": "Corp Frame",
+          "category": "Frame",
+          "price": 12,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "0c6c772f-bbfa-4b9e-9018-9e129f13f2d9",
+          "partName": "Corp Saddle",
+          "category": "Saddle",
+          "price": 10,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "10d18b73-0bc2-45ff-8d14-43852ca7b90c",
+          "partName": "Corp Wheel",
+          "category": "Wheels",
+          "price": 10,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "134f61f3-523f-442e-b3fb-d4ce95e9dd6d",
+          "partName": "Corp Train",
+          "category": "Drivetrain",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "35670bf8-3660-4684-9331-d61e8a31c9e8",
+          "partName": "Speeder Fork",
+          "category": "Fork",
+          "price": 15,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "007ec69a-b2df-44ae-b8ed-7000026c4931",
+          "partName": "Speeder Bars",
+          "category": "Handlebars",
+          "price": 17,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "881f8f40-05be-4b1c-bee3-f70ee85cad10",
+          "partName": "The Speed Engine",
+          "category": "Frame",
+          "price": 20,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "1a0dcb4c-9ecc-4074-974b-ac504ab9fc2e",
+          "partName": "Speeder Saddle",
+          "category": "Saddle",
+          "price": 15,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "cd88d377-2d5f-4949-b6fe-e73f1130d179",
+          "partName": "Speeder Wheel",
+          "category": "Wheels",
+          "price": 17,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "726e4477-12a7-440d-99db-d170eabe3c78",
+          "partName": "Speeder Train",
+          "category": "Drivetrain",
+          "price": 17,
+          "restockCycle": 1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Junkyard govt shop",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "99dfd426-fd0f-4f38-9654-48c9b91d5f97",
+          "partName": "Gamer Bars",
+          "category": "Handlebars",
+          "price": 16,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "be17b3a6-a767-4261-a164-955aa84bb6c2",
+          "partName": "Gamer Saddle",
+          "category": "Saddle",
+          "price": 20,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Junkyard_BUILD",
+      "gameObjectName": "Shop (Flea) Variant",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "eebf06f6-1261-49a3-b965-c9487072b707",
+          "partName": "Body Frame",
+          "category": "Frame",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "fc2af35b-37d8-4851-9a88-0ef4cf93b9fc",
+          "partName": "Body Bars",
+          "category": "Handlebars",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "bbafce44-b883-4daa-8037-f54b01acd19b",
+          "partName": "Body Wheels",
+          "category": "Wheels",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "5e24ffd7-6494-41f4-8092-398a138c277d",
+          "partName": "Body Fork",
+          "category": "Fork",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "8aa5549e-d341-4114-8604-f560ceb3ab75",
+          "partName": "Body Saddle",
+          "category": "Saddle",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "b2415300-78f1-4a08-b1bd-7411fa273e68",
+          "partName": "Body Train",
+          "category": "Drivetrain",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Sequoias Govt Shop",
+      "restocks": false,
+      "restockCycles": 4,
+      "parts": [
+        {
+          "id": "f5d1546f-e6a3-4993-be57-e8760166c6d3",
+          "partName": "Jump Fork",
+          "category": "Fork",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "b2df2db2-7ca5-4d07-88c4-89fa4566c35f",
+          "partName": "Jump Saddle",
+          "category": "Saddle",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "6ec38984-5f0c-42a4-acc8-a04a23a1539d",
+          "partName": "Jump Wheels",
+          "category": "Wheels",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "b3a08667-044d-4e12-b8b4-313d4acf5aaa",
+          "partName": "Ancient Frame",
+          "category": "Frame",
+          "price": 18,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Vineyards coast shop",
+      "restocks": false,
+      "restockCycles": 2,
+      "parts": [
+        {
+          "id": "5386bfda-9ecb-4716-824c-7f60c82be6b4",
+          "partName": "Black Biplane",
+          "category": "Fork",
+          "price": 7,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "753435c9-e0e0-407f-87c5-036732c8e33c",
+          "partName": "Tall Bars",
+          "category": "Handlebars",
+          "price": 7,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "5290cb0c-adce-4ecd-b2b5-8eee01c36105",
+          "partName": "Horse Fork",
+          "category": "Fork",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "2de2ec5d-a138-43bf-b862-8a0cdda5e4b8",
+          "partName": "Jumper Seat",
+          "category": "Saddle",
+          "price": 13,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "31254e30-91ba-48fe-a35c-71386a609f42",
+          "partName": "Cross Frame Black",
+          "category": "Frame",
+          "price": 9,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "965a07f5-91a6-4e60-bf1a-0bda089c51c2",
+          "partName": "Wood Frame",
+          "category": "Frame",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "07fb2d6f-fab0-4129-b917-5d07d85dac92",
+          "partName": "Boomerang Saddle",
+          "category": "Saddle",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Pink Shop",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "90043391-22dc-4a51-96ad-c0e3fe602cbf",
+          "partName": "Sweet Bars",
+          "category": "Handlebars",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "b9673de5-8e98-4b04-a757-677959a534df",
+          "partName": "Sweet Train",
+          "category": "Drivetrain",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "f7baec25-ec57-482e-bf83-0a68bbe5df0e",
+          "partName": "Sweet Frame",
+          "category": "Frame",
+          "price": 14,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "02de5f8c-2f89-4ebc-87b2-8f99edbfbada",
+          "partName": "Drift Wheels",
+          "category": "Wheels",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "6ba221b0-929b-4f14-b162-d524a85dfee2",
+          "partName": "Ancient Bars",
+          "category": "Handlebars",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Hot Dog shop",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "13346038-dcef-4932-b05e-43fe7e61de72",
+          "partName": "Fork Fork",
+          "category": "Fork",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "c5da77e0-460c-4770-9b6e-4e2b777490cc",
+          "partName": "Weenie Frame",
+          "category": "Frame",
+          "price": 24,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Plant Shop",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "820b33db-96f0-4fb2-9d92-c6701fd4646e",
+          "partName": "Wheed Whacker",
+          "category": "Fork",
+          "price": 12,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "92f49568-ec34-4d55-a2eb-7d8459aff1a9",
+          "partName": "Green Thumbs",
+          "category": "Wheels",
+          "price": 10,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "3ecec7f7-9b8d-4613-aa57-0f27c387ee8b",
+          "partName": "Thornbush",
+          "category": "Frame",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "ac120f40-5ed1-40a5-bd8b-22641fbd5b7b",
+          "partName": "Ancient Fork",
+          "category": "Fork",
+          "price": 13,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Entry Plaza Shop",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "8398f8a5-83ee-4bd6-9337-c658b7529836",
+          "partName": "Horse Saddle",
+          "category": "Saddle",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "e3874e2e-ed38-4f77-b769-29fb7908112c",
+          "partName": "Booster Seat",
+          "category": "Saddle",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "8b6f0a2f-67d0-493b-83bb-7d79402af252",
+          "partName": "Tri Frame Teal",
+          "category": "Frame",
+          "price": 8,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Hub Shop 2",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "22561825-cc38-4b5a-9413-1204185e21e0",
+          "partName": "Wicked Saddle",
+          "category": "Saddle",
+          "price": 9,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "b28ee659-a9af-4112-ba60-9d687b68eb4a",
+          "partName": "Wicked Wheel",
+          "category": "Wheels",
+          "price": 12,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "ff6e32a5-21d7-421a-ab79-5b1210890e96",
+          "partName": "Horse Bars",
+          "category": "Handlebars",
+          "price": 15,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "824d48d0-bc01-4a18-ab7c-c8c5c3d38b75",
+          "partName": "Wicked Train",
+          "category": "Drivetrain",
+          "price": 12,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Tramonto5_BUILD",
+      "gameObjectName": "Daves bike shop",
+      "restocks": true,
+      "restockCycles": 3,
+      "parts": [
+        {
+          "id": "54b12bf2-e4fd-4abf-958a-09dc5f8d9865",
+          "partName": "The Uproad",
+          "category": "Frame",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "308fe94f-6584-4dd6-8419-b4b36a3f1a49",
+          "partName": "Light Fork",
+          "category": "Fork",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "386eb82a-65b6-47fc-ac6d-60b5cf20b997",
+          "partName": "The Heavy",
+          "category": "Frame",
+          "price": 8,
+          "restockCycle": 0,
+          "bought": true
+        },
+        {
+          "id": "f261d865-513c-4fca-8c1e-a2b2979752c1",
+          "partName": "Wood Fork",
+          "category": "Fork",
+          "price": 10,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "414ed41b-2913-4acc-a699-3dd4ab9ede00",
+          "partName": "Horse Frame",
+          "category": "Frame",
+          "price": 18,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "e2dc833a-b9dc-4b65-ab72-f5499879a05c",
+          "partName": "La Cucaracha",
+          "category": "Frame",
+          "price": 10,
+          "restockCycle": 1,
+          "bought": true
+        },
+        {
+          "id": "254c2a74-c0ec-4f5f-9702-1c0da163322a",
+          "partName": "Coasting Train",
+          "category": "Drivetrain",
+          "price": 10,
+          "restockCycle": 2,
+          "bought": true
+        },
+        {
+          "id": "455d9ed2-8ef0-4d0e-85fd-99ce7f6374f6",
+          "partName": "Recharge Wheels",
+          "category": "Wheels",
+          "price": 8,
+          "restockCycle": 2,
+          "bought": true
+        },
+        {
+          "id": "a4548333-11f0-4c6c-adc1-bc5194f0b891",
+          "partName": "The Straight Edge",
+          "category": "Frame",
+          "price": 8,
+          "restockCycle": 2,
+          "bought": true
+        }
+      ]
+    },
+    {
+      "scene": "Mountain_BUILD",
+      "gameObjectName": "Shop (Flea) Variant",
+      "restocks": false,
+      "restockCycles": 0,
+      "parts": [
+        {
+          "id": "11b3c859-c12e-4b7e-97cf-7cc32e57f8fb",
+          "partName": "Trick Bars",
+          "category": "Handlebars",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "2ecfb50d-d3db-487b-b531-e36c2f0bbd24",
+          "partName": "Pilot Fork",
+          "category": "Fork",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        },
+        {
+          "id": "4c24777b-ac24-4dfb-8238-86c0da9c37fd",
+          "partName": "Ace Frame",
+          "category": "Frame",
+          "price": 5,
+          "restockCycle": -1,
+          "bought": true
+        }
+      ]
+    }
+  ],
+  "AllBikeParts": [
+    {
+      "partName": "Black Biplane",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Booster Seat",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Bumper Bike",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Corp Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": ""
+    },
+    {
+      "partName": "Corp Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": ""
+    },
+    {
+      "partName": "Corp Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": ""
+    },
+    {
+      "partName": "Corp Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Corp Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Corp Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Cross Frame Black",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Jumper Seat",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Tall Bars",
+      "category": "Handlebars",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Tri Frame Teal",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Jump Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Jump Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Jump Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Legendary Fork",
+      "category": "Fork",
+      "libraryId": "fork_Mountain_f",
+      "description": "---[Jumping effect] ---"
+    },
+    {
+      "partName": "Legendary Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame7",
+      "description": "---"
+    },
+    {
+      "partName": "Legendary Handlebars",
+      "category": "Handlebars",
+      "libraryId": "handlebar_Aero",
+      "description": ""
+    },
+    {
+      "partName": "Legendary Saddle",
+      "category": "Saddle",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Legendary Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Legendary Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Angled Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Vintage Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Light Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Thick Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Cutout Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Hollow Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Baby Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Clutch Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Chainless Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Horse Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Ancient Fork",
+      "category": "Fork",
+      "libraryId": "fork_DANDYHORSE",
+      "description": ""
+    },
+    {
+      "partName": "Fin Fork",
+      "category": "Fork",
+      "libraryId": "fork_Fin",
+      "description": ""
+    },
+    {
+      "partName": "Fork Fork",
+      "category": "Fork",
+      "libraryId": "Fork_Fork",
+      "description": ""
+    },
+    {
+      "partName": "Mudder Fork",
+      "category": "Fork",
+      "libraryId": "fork_Guard",
+      "description": ""
+    },
+    {
+      "partName": "Horse Fork",
+      "category": "Fork",
+      "libraryId": "fork_Horse",
+      "description": ""
+    },
+    {
+      "partName": "Elasto Fork",
+      "category": "Fork",
+      "libraryId": "fork_Lauf",
+      "description": ""
+    },
+    {
+      "partName": "Vintage Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f",
+      "description": ""
+    },
+    {
+      "partName": "Basic Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINNEW",
+      "description": ""
+    },
+    {
+      "partName": "Simpleton Fork",
+      "category": "Fork",
+      "libraryId": "Fork_Simpleton",
+      "description": ""
+    },
+    {
+      "partName": "Springy Fork",
+      "category": "Fork",
+      "libraryId": "Fork_Springs",
+      "description": ""
+    },
+    {
+      "partName": "Wood Fork",
+      "category": "Fork",
+      "libraryId": "fork_Wood_f1",
+      "description": ""
+    },
+    {
+      "partName": "Ancient Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_DANDYHORSE",
+      "description": ""
+    },
+    {
+      "partName": "Wood Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame12",
+      "description": ""
+    },
+    {
+      "partName": "Step Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame18",
+      "description": ""
+    },
+    {
+      "partName": "Truck Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame3",
+      "description": ""
+    },
+    {
+      "partName": "Highwater Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame7",
+      "description": ""
+    },
+    {
+      "partName": "Aero Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Aero",
+      "description": ""
+    },
+    {
+      "partName": "Bamboo Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Bamboo",
+      "description": ""
+    },
+    {
+      "partName": "Layup Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Carbon",
+      "description": ""
+    },
+    {
+      "partName": "Decobike Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Decobike",
+      "description": ""
+    },
+    {
+      "partName": "Double Trouble Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_DoubleTrouble",
+      "description": ""
+    },
+    {
+      "partName": "Feline Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Feline",
+      "description": ""
+    },
+    {
+      "partName": "Horse Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Horse",
+      "description": ""
+    },
+    {
+      "partName": "Weenie Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_HotDog",
+      "description": ""
+    },
+    {
+      "partName": "Leisure Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Leisure",
+      "description": ""
+    },
+    {
+      "partName": "Lunar Rim Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINNEW",
+      "description": ""
+    },
+    {
+      "partName": "Ol Tubey Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_OlTubey",
+      "description": ""
+    },
+    {
+      "partName": "Paperboy Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_paperboy1",
+      "description": ""
+    },
+    {
+      "partName": "Quad Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_QuadFrame",
+      "description": ""
+    },
+    {
+      "partName": "Flagship Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Racing",
+      "description": ""
+    },
+    {
+      "partName": "Simpleton Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Simpleton",
+      "description": ""
+    },
+    {
+      "partName": "Slammer Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_SlamMaster",
+      "description": ""
+    },
+    {
+      "partName": "Smoothie Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Springride",
+      "description": ""
+    },
+    {
+      "partName": "Paperclip Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_StaySeated",
+      "description": ""
+    },
+    {
+      "partName": "Swoosh Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Swoosh",
+      "description": ""
+    },
+    {
+      "partName": "Third Wheel Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_ThirdWheel",
+      "description": ""
+    },
+    {
+      "partName": "Tucked Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_Tucked",
+      "description": ""
+    },
+    {
+      "partName": "Trad Frame",
+      "category": "Frame",
+      "libraryId": "bike_Vanilla_01",
+      "description": ""
+    },
+    {
+      "partName": "Vanilla Frame",
+      "category": "Frame",
+      "libraryId": "bike_Vanilla_02",
+      "description": ""
+    },
+    {
+      "partName": "Drop Frame",
+      "category": "Frame",
+      "libraryId": "bike_Vanilla_03",
+      "description": ""
+    },
+    {
+      "partName": "Bent Frame",
+      "category": "Frame",
+      "libraryId": "bike_Vanilla_05",
+      "description": ""
+    },
+    {
+      "partName": "Deep Drops",
+      "category": "Handlebars",
+      "libraryId": "handlebar_big",
+      "description": ""
+    },
+    {
+      "partName": "Lil Sweep Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar3",
+      "description": ""
+    },
+    {
+      "partName": "Ergo Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar6",
+      "description": ""
+    },
+    {
+      "partName": "Ape Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar7",
+      "description": ""
+    },
+    {
+      "partName": "Paperboy Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar8_Paperboy",
+      "description": ""
+    },
+    {
+      "partName": "Ancient Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar_DANDYHORSE",
+      "description": ""
+    },
+    {
+      "partName": "Leisure Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar_Leisure",
+      "description": ""
+    },
+    {
+      "partName": "Moustache Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar_Stache",
+      "description": ""
+    },
+    {
+      "partName": "Streamers Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar_Streamers",
+      "description": ""
+    },
+    {
+      "partName": "Wood Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar_Wood",
+      "description": ""
+    },
+    {
+      "partName": "Gamer Bars",
+      "category": "Handlebars",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Antlers Bars",
+      "category": "Handlebars",
+      "libraryId": "handlebar_Antlers",
+      "description": ""
+    },
+    {
+      "partName": "Bullhorn Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Bullhorn",
+      "description": ""
+    },
+    {
+      "partName": "Horns Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_BullHorns",
+      "description": ""
+    },
+    {
+      "partName": "Dad Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_DadBar",
+      "description": ""
+    },
+    {
+      "partName": "Ears Bars",
+      "category": "Handlebars",
+      "libraryId": "handlebar_Ears",
+      "description": ""
+    },
+    {
+      "partName": "Horse Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Horse",
+      "description": ""
+    },
+    {
+      "partName": "Lane Splitter Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_LaneSplitter",
+      "description": ""
+    },
+    {
+      "partName": "Moto Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_moto",
+      "description": ""
+    },
+    {
+      "partName": "Pursuit Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Pursuit",
+      "description": ""
+    },
+    {
+      "partName": "Speeder Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Pursuit",
+      "description": ""
+    },
+    {
+      "partName": "Simpleton Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Simpleton",
+      "description": ""
+    },
+    {
+      "partName": "Wide Bars",
+      "category": "Handlebars",
+      "libraryId": "Handlebar_Wide",
+      "description": ""
+    },
+    {
+      "partName": "01 Train Small",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "07 Train Gear2",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Mini Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Small_f",
+      "description": ""
+    },
+    {
+      "partName": "1 Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_3",
+      "description": ""
+    },
+    {
+      "partName": "Paperboy Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_6_Paperboy",
+      "description": ""
+    },
+    {
+      "partName": "Tilt Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_7_white",
+      "description": ""
+    },
+    {
+      "partName": "Banana Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Banana",
+      "description": ""
+    },
+    {
+      "partName": "Boomerang Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Boomerang",
+      "description": ""
+    },
+    {
+      "partName": "Rivets Saddle",
+      "category": "Saddle",
+      "libraryId": "Saddle_Buttons",
+      "description": ""
+    },
+    {
+      "partName": "Ancient Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_DANDYHORSE",
+      "description": ""
+    },
+    {
+      "partName": "Gamer Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Gamer",
+      "description": ""
+    },
+    {
+      "partName": "Hole Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Hole",
+      "description": ""
+    },
+    {
+      "partName": "Horse Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Horse",
+      "description": ""
+    },
+    {
+      "partName": "Needle Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Needle",
+      "description": ""
+    },
+    {
+      "partName": "Simpleton Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Simpleton",
+      "description": ""
+    },
+    {
+      "partName": "Buttercup Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_TheCups",
+      "description": ""
+    },
+    {
+      "partName": "Wood Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_Wood",
+      "description": ""
+    },
+    {
+      "partName": "Quad Spoke Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_AeroSpoke_f",
+      "description": ""
+    },
+    {
+      "partName": "Blade Wheel",
+      "category": "Wheels",
+      "libraryId": "Wheel_Blade_F",
+      "description": ""
+    },
+    {
+      "partName": "Ancient Wheel",
+      "category": "Wheels",
+      "libraryId": "Wheel_DANDYHORSE_b",
+      "description": ""
+    },
+    {
+      "partName": "Deep V Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Deep_F",
+      "description": ""
+    },
+    {
+      "partName": "Eye Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Feet_f",
+      "description": ""
+    },
+    {
+      "partName": "Handy Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Hands_f",
+      "description": ""
+    },
+    {
+      "partName": "Horse Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Horse_F",
+      "description": ""
+    },
+    {
+      "partName": "Lawnmower Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Lawnmowers_F",
+      "description": ""
+    },
+    {
+      "partName": "Speed Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Speed_f",
+      "description": ""
+    },
+    {
+      "partName": "Stars Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Stars_B",
+      "description": ""
+    },
+    {
+      "partName": "Tan Wall Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_TanWallTires_f",
+      "description": ""
+    },
+    {
+      "partName": "Wood Wheel",
+      "category": "Wheels",
+      "libraryId": "Wheel_Wood_f",
+      "description": ""
+    },
+    {
+      "partName": "Body Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Body Fork",
+      "category": "Fork",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Body Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Body Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Body Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Body Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Bolt Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Wheed Whacker",
+      "category": "Fork",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Thornbush",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Coasting Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "La Cucaracha",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Drift Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "The Heavy",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Part Perceiver",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Light Fork",
+      "category": "Fork",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Light Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Sweet Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Recharge Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Flag Finder",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Ramp Rummager",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Package Perceiver",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Secret Searcher",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "The Straight Edge",
+      "category": "Frame",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Terrain Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "The Uproad",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Uphiller",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Green Thumbs",
+      "category": "Wheels",
+      "libraryId": "wheel_fat_f",
+      "description": "grip on sand\n"
+    },
+    {
+      "partName": "Wicked Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Wicked Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Wicked Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Wicked Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Wicked Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Wicked Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Speeder Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "The Speed Engine",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Speeder Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Speeder Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Speeder Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Synthetic Fork",
+      "category": "Fork",
+      "libraryId": "fork_Mountain_f",
+      "description": "---[Jumping effect] ---"
+    },
+    {
+      "partName": "Synthetic Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame7",
+      "description": "---"
+    },
+    {
+      "partName": "Synthetic Handlebars",
+      "category": "Handlebars",
+      "libraryId": "handlebar_Aero",
+      "description": ""
+    },
+    {
+      "partName": "Synthetic Saddle",
+      "category": "Saddle",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Synthetic Train",
+      "category": "Drivetrain",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Synthetic Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Velo_B",
+      "description": ""
+    },
+    {
+      "partName": "Commuter Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Commuter Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Commuter Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Commuter Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": ""
+    },
+    {
+      "partName": "Rusty Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": ""
+    },
+    {
+      "partName": "Rusty Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": ""
+    },
+    {
+      "partName": "Rusty Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": ""
+    },
+    {
+      "partName": "Rusty Seat",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": ""
+    },
+    {
+      "partName": "Rusty Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "gear torques are more amplified/drastic\n"
+    },
+    {
+      "partName": "Rusty Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": ""
+    },
+    {
+      "partName": "Trudge Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": ""
+    },
+    {
+      "partName": "Amateur Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Amateur Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Amateur Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Amateur Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Amateur Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Amateur Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Quick Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Seat",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Tight Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Sand Pipers",
+      "category": "Wheels",
+      "libraryId": "wheel_fat_f",
+      "description": "grip on sand\n"
+    },
+    {
+      "partName": "Drift Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Heavy Fork",
+      "category": "Fork",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Ace Wheels",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Jet Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Pilot Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    },
+    {
+      "partName": "Train 01",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Bars",
+      "category": "Handlebars",
+      "libraryId": "handelbar2",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Fork",
+      "category": "Fork",
+      "libraryId": "fork_Normal_f_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Frame",
+      "category": "Frame",
+      "libraryId": "bike_Frame_MAINOLD",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Saddle",
+      "category": "Saddle",
+      "libraryId": "saddle_1",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Train",
+      "category": "Drivetrain",
+      "libraryId": "BagMedium",
+      "description": "\n"
+    },
+    {
+      "partName": "Trick Wheel",
+      "category": "Wheels",
+      "libraryId": "wheel_Normal_White_b",
+      "description": "\n"
+    }
+  ]
+}
