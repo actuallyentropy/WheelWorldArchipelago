@@ -1,0 +1,42 @@
+# Claude Code
+.claude/
+
+# Build outputs
+build/
+obj/
+
+# IDE / Editor
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.code-workspace
+
+# NuGet
+*.nupkg
+
+lib/Assembly-CSharp.dll
+lib/Assembly-CSharp-firstpass.dll
+lib/BitCode.AssetManagement.dll
+
+lib/Il2Cppmscorlib.dll
+lib/Il2CppSystem.dll
+lib/Il2CppSystem.*.dll
+
+lib/UnityEngine.dll
+lib/UnityEngine.*.dll
+lib/Unity.*.dll
+
+lib/Sirenix.Serialization.dll
+
+lib/HoudiniEngineUnity.dll
+lib/Sentry.dll
+lib/Sentry.*.dll
+lib/MethodXrefScanCache.db
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+obj/Debug/ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.AssemblyReference.cache
