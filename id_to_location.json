@@ -285,7 +285,7 @@
   ],
   "223271ee-6800-4cd5-8710-ddebce6e18fb": [
     {
-      "name": "PLACEHOLDER_1",
+      "name": "Field South of Rooster Statue Box",
       "id": 151
     }
   ],
@@ -303,19 +303,19 @@
   ],
   "e74383a6-cf70-4fac-bd75-9e931c38a062": [
     {
-      "name": "PLACEHOLDER_4",
+      "name": "Preserves Stonehenge Box",
       "id": 154
     }
   ],
   "5e644436-a5f1-4a30-859a-8034eafb78fd": [
     {
-      "name": "PLACEHOLDER_5",
+      "name": "Preserves Pedal Pumpers Campsite Box",
       "id": 155
     }
   ],
   "9334fb62-436d-4537-8f46-21c63f2f9d8c": [
     {
-      "name": "PLACEHOLDER_6",
+      "name": "Vineyard Field East of Le Grand Crew Box",
       "id": 156
     }
   ],
@@ -339,7 +339,7 @@
   ],
   "b4de82ea-09c0-405f-a5cb-69796d94d7ef": [
     {
-      "name": "Farmland Behind The West Oranges Barn Box",
+      "name": "Farmlands West Portal Potty House to the South Box",
       "id": 160
     }
   ],
@@ -447,7 +447,7 @@
   ],
   "0ee2c65d-3ea6-4a24-b5a8-17eae72a44b1": [
     {
-      "name": "PLACEHOLDER_28",
+      "name": "Farmland By The Locals Box",
       "id": 178
     }
   ],
@@ -465,25 +465,25 @@
   ],
   "4429f812-feca-4a37-9ddf-ad50d10699a0": [
     {
-      "name": "PLACEHOLDER_31",
+      "name": "Velo City to Preserves Fork in the Road Box",
       "id": 181
     }
   ],
   "3e1a3ed0-507e-40eb-a60f-94bc3dc2e6c3": [
     {
-      "name": "PLACEHOLDER_32",
+      "name": "Vineyard Field Between Boss Race and Bell Box",
       "id": 182
     }
   ],
   "3fc7ea31-773a-4211-af57-3f5b56c735f4": [
     {
-      "name": "PLACEHOLDER_33",
+      "name": "Vineyards Recovery Field Dude Box",
       "id": 183
     }
   ],
   "fb25bff2-91d0-4b61-982f-09e67de21ba7": [
     {
-      "name": "Farmland Behind The East Oranges Barn Box",
+      "name": "Farmlands West Portal Potty House to the East Box",
       "id": 184
     }
   ],
@@ -507,7 +507,7 @@
   ],
   "624c4494-2e8f-496f-abbe-b01cb4816799": [
     {
-      "name": "PLACEHOLDER_38",
+      "name": "South of Preserves Cyclorp Box",
       "id": 188
     }
   ],
@@ -567,13 +567,13 @@
   ],
   "3ce84912-f9c0-462d-bd0f-cc1c46dd29d7": [
     {
-      "name": "PLACEHOLDER_48",
+      "name": "Farmlands South Portal Potty Box",
       "id": 198
     }
   ],
   "ba73b47b-68d0-4d25-bead-09b2e9dd316e": [
     {
-      "name": "PLACEHOLDER_49",
+      "name": "Vineyard Donut Secret Track Box",
       "id": 199
     }
   ],
@@ -585,7 +585,7 @@
   ],
   "99404885-e1a9-4a2e-b778-cf9876f9c106": [
     {
-      "name": "PLACEHOLDER_51",
+      "name": "Pedal Assistants Box",
       "id": 201
     }
   ],
@@ -603,7 +603,7 @@
   ],
   "e6dd58c4-2e6f-4ea8-96ff-545864107ac6": [
     {
-      "name": "PLACEHOLDER_54",
+      "name": "Farmland West Potty Box",
       "id": 204
     }
   ],
@@ -651,13 +651,13 @@
   ],
   "d966dd9f-886b-452c-8e73-9fa33a75e85c": [
     {
-      "name": "PLACEHOLDER_62",
+      "name": "Farmlands South of Bell Shrine Box",
       "id": 212
     }
   ],
   "6cbad5bf-d332-43e3-96a8-9308af30a50f": [
     {
-      "name": "PLACEHOLDER_63",
+      "name": "Northwest Warehouse Lost Boy Box",
       "id": 213
     }
   ],
@@ -669,13 +669,13 @@
   ],
   "28192a72-9cca-4f3f-94c3-1d51fbf6ad67": [
     {
-      "name": "PLACEHOLDER_65",
+      "name": "Warehouse Secret Shop Box",
       "id": 215
     }
   ],
   "ed8ae2b6-365d-44fe-ab46-2610f1755e49": [
     {
-      "name": "PLACEHOLDER_66",
+      "name": "Southwest Wasteland Outside of Dump Box",
       "id": 216
     }
   ],
@@ -687,7 +687,7 @@
   ],
   "cd42123e-590f-48cb-93c4-44323ce7d24e": [
     {
-      "name": "PLACEHOLDER_68",
+      "name": "Warehouse Platform North Side Box",
       "id": 218
     }
   ],
@@ -711,19 +711,19 @@
   ],
   "b34501c3-f4f0-4873-bfb4-893eb5e7b7b3": [
     {
-      "name": "PLACEHOLDER_72",
+      "name": "Southeast Dump Shipping Container Box",
       "id": 222
     }
   ],
   "50eff296-26c5-42ca-800d-bde2996b92dc": [
     {
-      "name": "PLACEHOLDER_73",
+      "name": "Wasteland Broken Bridge Box",
       "id": 223
     }
   ],
   "ae5d7274-8a03-4485-9986-c681c13486fc": [
     {
-      "name": "PLACEHOLDER_74",
+      "name": "Big Drill South of Warehouse Portal Potty Box",
       "id": 224
     }
   ],
@@ -735,7 +735,7 @@
   ],
   "53925860-ddb6-43bc-bc5a-390037270751": [
     {
-      "name": "PLACEHOLDER_76",
+      "name": "Warehouse Great Deals On Used Cars Box",
       "id": 226
     }
   ],
@@ -765,13 +765,13 @@
   ],
   "42c031b7-3db9-4f99-854c-96dfa893fab5": [
     {
-      "name": "PLACEHOLDER_81",
+      "name": "Warehouse Big Drill Outside Platform Box",
       "id": 231
     }
   ],
   "08cc1f7d-6e5e-4a8b-94f2-0fd245f829e4": [
     {
-      "name": "PLACEHOLDER_82",
+      "name": "Wasteland Under Broken Bridge Box",
       "id": 232
     }
   ],
@@ -783,19 +783,19 @@
   ],
   "ed58b896-3c00-45cc-81ee-6b29a2bdd4ed": [
     {
-      "name": "PLACEHOLDER_84",
+      "name": "Warehouse Bell Shrine Box",
       "id": 234
     }
   ],
   "4dab089c-e138-4319-bab8-3f90f6a9eba7": [
     {
-      "name": "PLACEHOLDER_85",
+      "name": "Wasteland Dump Among the Pipes Box",
       "id": 235
     }
   ],
   "45c8ab54-b9cc-4d54-a12e-5ab4d8247c04": [
     {
-      "name": "PLACEHOLDER_86",
+      "name": "Wasteland Outside Mount Send Box",
       "id": 236
     }
   ],
@@ -807,13 +807,13 @@
   ],
   "24d47c1b-7e8d-4247-95bb-8c76360e2234": [
     {
-      "name": "PLACEHOLDER_88",
+      "name": "Warehouse Platform West Side Box",
       "id": 238
     }
   ],
   "3e098ba7-0590-46f0-86a9-e26eb3d0a5cb": [
     {
-      "name": "PLACEHOLDER_89",
+      "name": "Wasteland Bridge Near Mount Send Box",
       "id": 239
     }
   ],
@@ -849,13 +849,13 @@
   ],
   "9b5b9b06-0618-444b-95dc-676bc3abef9c": [
     {
-      "name": "PLACEHOLDER_95",
+      "name": "Warehouse Fork Outside Big Platform Box",
       "id": 245
     }
   ],
   "93bb2e9f-6f31-45af-b0aa-4dde1870c31a": [
     {
-      "name": "PLACEHOLDER_96",
+      "name": "Warehouse North Portal Potty Box",
       "id": 246
     }
   ],
