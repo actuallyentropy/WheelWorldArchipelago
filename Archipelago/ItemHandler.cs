@@ -22,12 +22,6 @@ public class ItemHandler : MonoBehaviour
     /// </summary>
     private static readonly ConcurrentQueue<QueuedItem> PendingItems = new();
 
-    /// <summary>Interval in seconds between processing attempts.</summary>
-    private const float PollInterval = 1f;
-
-    /// <summary>Countdown timer for the next processing attempt.</summary>
-    private float _pollTimer;
-
     public ItemHandler(IntPtr ptr) : base(ptr) { }
 
     public static void Register()
@@ -119,10 +113,6 @@ public class ItemHandler : MonoBehaviour
 
         if (PendingItems.IsEmpty) return;
 
-        _pollTimer -= Time.deltaTime;
-        if (_pollTimer > 0f) return;
-        _pollTimer = PollInterval;
-
         // Log state every poll so we can diagnose why items aren't processing
         var presenceKey = GetPresenceKey();
         var exploring = IsPlayerExploring();
@@ -188,9 +178,6 @@ public class ItemHandler : MonoBehaviour
             ArchipelagoConsole.LogMessage($"Received: {item.ItemName}");
             Plugin.BepinLogger.LogInfo($"[ItemHandler] Granted bike part: {item.ItemName}");
 
-            // Reset timer so we don't immediately try the next item — give the
-            // cinematic time to appear before the next poll checks IsShowing()
-            _pollTimer = PollInterval;
         }
         catch (Exception e)
         {
